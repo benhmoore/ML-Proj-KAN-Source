@@ -8,4 +8,3 @@ Source code for ML project on KAN.
 -   Ben Moore
 -   Matthew Robinson
 -   Justin Xie
-    `
